@@ -1,0 +1,4 @@
+Day 1:
+- Understood DevOps fundamentals
+- Refreshed Git basics
+- Set up GitHub repository
