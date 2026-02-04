@@ -1,0 +1,16 @@
+Linux day 2:
+ commands practiced:
+	-pwd
+	-ls
+	-ls -l
+	-cd
+	-cd ..
+	-mkdir
+	-touch
+	-cat
+	-nano
+	-echo
+	-rm
+	-rm -r foldername
+	-history
+

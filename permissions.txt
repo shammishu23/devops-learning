@@ -1,0 +1,4 @@
+Hello world >
+memory 1 tb >
+speed 2 kmph >
+chitti robo 2.o
