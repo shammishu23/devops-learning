@@ -2,3 +2,14 @@ Day 1:
 - Understood DevOps fundamentals
 - Refreshed Git basics
 - Set up GitHub repository
+
+Day2: 
+-understand the linux basics
+
+Day 3: Docker Basics
+
+- Understood why Docker exists
+- Learned difference between image and container
+- Ran first container using hello-world
+- Ran Ubuntu container interactively
+
